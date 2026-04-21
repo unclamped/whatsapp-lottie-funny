@@ -1,0 +1,29 @@
+{
+  "name": "whatsapp-lottie-funny",
+  "version": "1.0.0",
+  "description": "WhatsApp Lottie Sticker TUI Amalgamation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "chalk": "^5.6.2",
+    "fs-extra": "^11.3.4",
+    "glob": "^13.0.6",
+    "ink": "^7.0.1",
+    "ink-divider": "^4.1.1",
+    "ink-select-input": "^6.2.0",
+    "ink-spinner": "^5.0.0",
+    "ink-text-input": "^6.0.0",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0",
+    "react": "^19.2.5",
+    "sharp": "^0.34.5",
+    "yazl": "^3.3.1"
+  }
+}

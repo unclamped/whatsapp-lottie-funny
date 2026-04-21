@@ -1,0 +1,22 @@
+{
+  "templates": [
+    {
+      "id": "spin",
+      "label": "Spin",
+      "descriptionEn": "Continuous spin with a light pulse.",
+      "descriptionPtbr": "Giro continuo com pulso leve.",
+      "baseFolder": "./src/exemple",
+      "jsonRelativePath": "animation/animation_secondary.json",
+      "preset": "spin"
+    },
+    {
+      "id": "expand",
+      "label": "Expand",
+      "descriptionEn": "Wide entrance with a smooth settle.",
+      "descriptionPtbr": "Entrada ampla e assentamento suave.",
+      "baseFolder": "./src/exemple",
+      "jsonRelativePath": "animation/animation_secondary.json",
+      "preset": "expand"
+    }
+  ]
+}
